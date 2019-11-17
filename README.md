@@ -1,2 +1,0 @@
-# scrapable
-Created with CodeSandbox
